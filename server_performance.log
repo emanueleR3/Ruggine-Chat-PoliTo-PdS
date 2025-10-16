@@ -1,0 +1,4 @@
+2025-09-11 08:32:50 | users=1 groups=0 messages=0 cpu_total_ms=323 cpu_delta_ms=312 wall_interval_ms=120005
+2025-09-11 08:34:51 | users=3 groups=0 messages=0 cpu_total_ms=1255 cpu_delta_ms=932 wall_interval_ms=120003
+2025-09-11 08:36:51 | users=3 groups=1 messages=3 cpu_total_ms=1264 cpu_delta_ms=9 wall_interval_ms=120004
+2025-09-11 08:38:51 | users=3 groups=1 messages=4 cpu_total_ms=1576 cpu_delta_ms=312 wall_interval_ms=120005
